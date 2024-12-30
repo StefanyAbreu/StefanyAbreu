@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:https://www.linkedin.com/in/stefanyabreu1994/)
 
 ![Stefany GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanyAbreu&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanyAbreu)](https://github.com/StefanyAbreu/github-readme-stats)
 
 ## Tecnologias que eu uso no dia a dia 
 
